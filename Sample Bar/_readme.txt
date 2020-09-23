@@ -1,0 +1,2 @@
+Manual installation:
+Unpack the ZIP file containing the binaries and sources. Compile the project SampleBar.vbp to a DLL or register the DLL in the download package. Be sure to refer to have the Version Compatibility set to Binary or Project Compatibility. Merge the file install.reg into the registry. This tells IE about the new toolbar. Open a new IE window. Go to New > Toolbars in the IE menu and switch on "Klemid's Sample Toolbar". After that, the new toolbar should appear.

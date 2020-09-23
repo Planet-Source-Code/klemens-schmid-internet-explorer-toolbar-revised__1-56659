@@ -1,0 +1,16 @@
+//Microsoft Developer Studio generated resource script.
+//
+
+
+// Icon
+
+101                     ICON	DISCARDABLE     "file.ico"
+102                     ICON	DISCARDABLE     "search.ico"
+
+
+// support XP styles
+#define CREATEPROCESS_MANIFEST_RESOURCE_ID 2
+#define RT_MANIFEST                     24
+#define CONTROL_PANEL_RESOURCE_ID       123
+
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST             "samplebar.dll.manifest"
